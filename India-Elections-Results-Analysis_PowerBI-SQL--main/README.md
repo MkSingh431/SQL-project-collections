@@ -1,11 +1,11 @@
-🇮🇳 India Elections Results Analysis | Power BI & SQL
-
+# 🇮🇳 India Elections Results Analysis | Power BI & SQL
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/dashboard.png)
 📌 Overview
 
 This project provides an interactive and data-driven analysis of the India General Elections 2024, using SQL for data extraction & transformation and Power BI for visualization. The dashboards offer real-time insights into party performance, voter trends, seat distribution, and election results to support data-driven decision-making.
 
 
-🚀 Key Achievements
+## 🚀 Key Achievements
 
 ✔ Built an interactive Power BI dashboard, improving data visibility by 70% and enabling faster decision-making.
 
@@ -42,13 +42,13 @@ Identification of most competitive constituencies based on vote margins.
 Breakdown of seats won by major alliances (NDA, I.N.D.I.A, Others).
 Vote share percentage and trends in party performance over multiple elections.
 Interactive visuals: bar charts, heatmaps, and line graphs to analyze political shifts.
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/Screenshot%202025-11-28%20100757.png)
 
 
-
-🛠 Technical Implementation
+## 🛠 Technical Implementation
 
 🔹 SQL Data Processing & Queries
-
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/sql%20problem%20statement.png)
 ✔ Data Extraction & Transformation
 
 Used INNER JOINs, LEFT JOINs, Window Functions, CTEs, and Aggregations (SUM, COUNT, RANK, PARTITION BY) to process election data.
@@ -67,10 +67,10 @@ Winning candidate's details (name, votes, party, victory margin).
 Seat distribution by state and alliance (total NDA, I.N.D.I.A, and Others seats).
 Top 10 candidates with the highest EVM votes.
 Runner-up analysis for each constituency.
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/sql%20query.png)
 
-
-🔹 Power BI Data Modeling & Visualization
-
+## 🔹 Power BI Data Modeling & Visualization
+![image text](https://github.com/MkSingh431/India-Elections-Results-Analysis_PowerBI-SQL/blob/main/Screenshot/Screenshot%202025-11-28%20100825.png)
 ✔ Data Preprocessing & Integration
 
 Designed a structured ERD (Entity Relationship Diagram) for data normalization and performance enhancement.
@@ -91,7 +91,7 @@ Efficiently handled large datasets with over 1 million rows of election data.
 
 
 
-📂 Repository Contents
+## 📂 Repository Contents
 
 📌 India_Elections_Analysis.pbix – Power BI Dashboard File
 
@@ -105,7 +105,7 @@ Efficiently handled large datasets with over 1 million rows of election data.
 
 
 
-📊 How to Use
+## 📊 How to Use
 
 ✅ Step 1: Run the SQL queries in MySQL or SQL Server to generate clean election data.
 
@@ -120,7 +120,7 @@ Efficiently handled large datasets with over 1 million rows of election data.
 This project demonstrates advanced SQL data processing, data modeling, and Power BI visualization techniques to analyze the India General Elections 2024. It provides valuable insights into party performance, voter behavior, and election trends.
 
 
-📌 Key Takeaways:
+## 📌 Key Takeaways:
 
 ✔ Master SQL queries for election data analysis 🗳️
 
@@ -129,6 +129,7 @@ This project demonstrates advanced SQL data processing, data modeling, and Power
 ✔ Gain insights into political trends and election results
 
 📧 Connect with Me
-
+[Linkedln](https://www.linkedin.com/in/motilal-das-42b4a9254?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAD64mSMBFgXkXwCLAWD9sLe_sBVrG2CWqEQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BH68pT7bcQjS%2F7FaSBN9%2Bdg%3D%3D)\
+[Email](mks465261@gmail.com)\
 For queries or feedback, feel free to reach out! 🚀
 
