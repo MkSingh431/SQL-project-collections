@@ -8,6 +8,7 @@ Welcome to the **SQL Project Collections** repository — a comprehensive suite 
 
 ---
 
+
 ## Table of Contents
 
 - [About This Repository](#about-this-repository)
